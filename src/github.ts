@@ -2,7 +2,7 @@ import * as fs from 'fs';
 
 const readmeFile = 'README.md';
 const ghPrefixText = '### 📌 Current Projects';
-const ghSuffixText = `</br></br>🌐 https://mitchinson.dev
+const ghSuffixText = `🌐 https://mitchinson.dev
 
 💌 mitchinson.dev@gmail.com
 
