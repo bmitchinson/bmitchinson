@@ -4,7 +4,7 @@
 - 🎸 [Practicing guitar](https://soundcloud.com/115bwm/ambulance-holden-tape)
 - 🌽 Preparing to move to Des Moines, Iowa
 
-</br></br>🌐 https://mitchinson.dev
+🌐 https://mitchinson.dev
 
 💌 mitchinson.dev@gmail.com
 
