@@ -1,4 +1,5 @@
 ### 📌 Current Projects
+
 - [Notion Publish Tool](https://github.com/bmitchinson/notion-publish-tool): A publishing web app for mirroring Notion posts to this website
   in an effort to make updating this site mindless. Using Svelte, Storybook, Typescript, and [Figma](https://www.figma.com/file/A4cBLkwvsozovIXCncPPu7/Main).
 - [UrbanOS](https://github.com/UrbanOS-Public/smartcitiesdata): A combination of Elixir micro services custom built to ingest, normalize, transform, persist, and stream data from numerous sources, orchestrated via Kubernetes. My current project of the last year at Accenture Industry X.
@@ -6,7 +7,7 @@
 - [Learning Rust](https://github.com/bmitchinson/learning-rust): Learning rust in order to move my old unity [VRJPG Project](https://github.com/bmitchinson/vr-jpg-viewer) to an aFrame XR web app. Progress notes available [here](https://www.notion.so/bmitchinson/JPGVR-Viewer-5136ef4d51744e73936bb9b1b549b246).
 - Messing around with Capacitor to learn to build iOS apps quickly. [Template repo here](https://github.com/bmitchinson/ios-haptics-test-react).
 - Recording [some music](https://soundcloud.com/115bwm/three-color-challenge/s-JsBhgFRypNZ?si=6d8bcaeff23246a28d2d1e97493ecceb) 🎶
-</br></br>
+  </br></br>
 
 🌐 https://mitchinson.dev
 
