@@ -1,1 +1,0 @@
-// import { HELLO } from './configuration';
