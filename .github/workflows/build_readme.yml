@@ -9,6 +9,7 @@ on:
     schedule:
         # every two hours
         - cron: '0 */2 * * *'
+    workflow_dispatch:
 
 jobs:
     build:
