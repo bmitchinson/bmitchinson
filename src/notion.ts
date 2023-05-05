@@ -3,7 +3,7 @@ import { parse, format, differenceInDays } from 'date-fns';
 import { NotionToMarkdown } from 'notion-to-md';
 import {
     NOTION_API_KEY,
-    PAGE_ID,
+    CURRENT_WORK_PAGE_ID,
     POSTS_DB,
     BLOG_DOMAIN,
 } from './configuration';
@@ -27,7 +27,7 @@ export class Notion {
     }
 
     async getCurrentWork() {
-        const blocks = await this.notionMarkdownClient.pageToMarkdown(PAGE_ID);
+        const blocks = await this.notionMarkdownClient.pageToMarkdown(CURRENT_WORK_PAGE_ID);
         const md = this.notionMarkdownClient.toMarkdownString(blocks);
         return md;
     }
