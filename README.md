@@ -1,6 +1,6 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal government client with Accenture
-- 🎸 [Practicing](https://soundcloud.com/115bwm/ambulance-holden-tape) [guitar](https://soundcloud.com/115bwm/ambulance-holden-tape)
+- 🎸 [Practicing guitar](https://soundcloud.com/115bwm/ambulance-holden-tape)
 - 🌽 Preparing to move to Des Moines, Iowa
 
 ### 📝 Recent Posts
