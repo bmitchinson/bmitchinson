@@ -1,8 +1,8 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal government client with Accenture
 - 🎸 [Practicing guitar](https://soundcloud.com/115bwm/ambulance-holden-tape)
-- 🌽 Unpacking after a move to Des Moines, Iowa
 - 👾 Playing Zelda Tears of the Kingdom
+- 🌐 Working on this site
 
 ### 📝 Recent Posts
 
