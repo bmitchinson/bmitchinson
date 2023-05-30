@@ -2,7 +2,7 @@
 - 📪 APIs for a federal government client with Accenture
 - 🎸 [Practicing guitar](https://soundcloud.com/115bwm/ambulance-holden-tape)
 - 👾 Playing Zelda Tears of the Kingdom
-- 🌐 Working on this site
+- 🌐 Finishing up [home](http://home.mitchinson.dev) + [blog](http://blog.mitchinson.dev)
 
 ### 📝 Recent Posts
 
