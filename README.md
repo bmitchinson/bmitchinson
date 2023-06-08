@@ -1,6 +1,6 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal government client with Accenture
-- 🎸 [Practicing guitar](https://soundcloud.com/115bwm/ambulance-holden-tape)
+- 🏃🏼 Prepping for a 5k
 - 👾 Playing Zelda Tears of the Kingdom
 - 🌐 Finishing up [home](http://home.mitchinson.dev) + [blog](http://blog.mitchinson.dev)
 
