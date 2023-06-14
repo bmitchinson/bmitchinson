@@ -1,8 +1,8 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal government client with Accenture
-- 🏃🏼 Prepping for a 5k
+- 🏃🏼 Prepping for a 10k in September
 - 👾 Playing Zelda Tears of the Kingdom
-- 🌐 Finishing up [home](http://home.mitchinson.dev) + [blog](http://blog.mitchinson.dev)
+- 🏡 Decorating my apartment in IA
 
 ### 📝 Recent Posts
 
