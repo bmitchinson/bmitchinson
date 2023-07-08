@@ -6,6 +6,7 @@
     "scripts": {
         "updateGithubReadme": "ts-node src/update_github_readme.ts",
         "revalidateMitchinsonDev": "ts-node src/revalidate_mitchinson_dev.ts",
+        "rebuildBlog": "ts-node src/trigger_blog_rebuild.ts",
         "build": "tsc",
         "clean": "rm -rf coverage dist",
         "lint": "eslint 'src/**/*.ts'",

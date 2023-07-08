@@ -1,14 +1,14 @@
 # https://gist.github.com/thmsgbrt/9b22b836fb11167400e0e63f8c326fae#file-main-yaml
 # https://medium.com/swlh/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91
-name: Build Readme
+name: Build Readme Blog and Homepage
 
 on:
     push:
         branches:
             - main
     schedule:
-        # every two hours
-        - cron: '0 */2 * * *'
+        # every hour
+        - cron: '0 */1 * * *'
     workflow_dispatch:
 
 jobs:
@@ -34,6 +34,19 @@ jobs:
               env:
                   REVALIDATE_PASS: ${{ secrets.REVALIDATE_PASS }}
                   NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+                  REBUILD_BLOG_HOOK_URL: ${{ secrets.REBUILD_BLOG_HOOK_URL }}
+            - name: Revalidate Mitchinson.dev
+              run: npm run revalidateMitchinsonDev
+              env:
+                  REVALIDATE_PASS: ${{ secrets.REVALIDATE_PASS }}
+                  NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+                  REBUILD_BLOG_HOOK_URL: ${{ secrets.REBUILD_BLOG_HOOK_URL }}
+            - name: Rebuild blog.mitchinson.dev
+              run: npm run rebuildBlog
+              env:
+                  REVALIDATE_PASS: ${{ secrets.REVALIDATE_PASS }}
+                  NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
+                  REBUILD_BLOG_HOOK_URL: ${{ secrets.REBUILD_BLOG_HOOK_URL }}
             - name: Commit and Push new README.md to the repository
               uses: mikeal/publish-to-github-action@master
               env:
