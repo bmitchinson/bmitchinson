@@ -2,7 +2,7 @@
 - 📪 APIs for a federal client with Accenture
 - 🏃🏼 Prepping for a 10k in September
 - 🤑 Working on digital checkbook app
-- 🏡 Decorating my apartment in IA!!
+- 🏡 Decorating my apartment in IA
 
 ### 📝 Recent Posts
 
