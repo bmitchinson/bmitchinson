@@ -32,6 +32,7 @@ jobs:
             - name: Generate README file
               run: npm run updateGithubReadme
               env:
+                  REVALIDATE_PASS: ${{ secrets.REVALIDATE_PASS }}
                   NOTION_API_KEY: ${{ secrets.NOTION_API_KEY }}
             - name: Commit and Push new README.md to the repository
               uses: mikeal/publish-to-github-action@master
