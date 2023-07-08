@@ -27,7 +27,9 @@ export class Notion {
     }
 
     async getCurrentWork() {
-        const blocks = await this.notionMarkdownClient.pageToMarkdown(CURRENT_WORK_PAGE_ID);
+        const blocks = await this.notionMarkdownClient.pageToMarkdown(
+            CURRENT_WORK_PAGE_ID,
+        );
         const md = this.notionMarkdownClient.toMarkdownString(blocks);
         return md;
     }
@@ -45,7 +47,7 @@ export class Notion {
                 );
                 return {
                     title: p.properties.title.title[0].plain_text,
-                    slug: `${BLOG_DOMAIN}${p.properties.slug.rich_text[0].plain_text}`,
+                    slug: `${BLOG_DOMAIN}/${p.properties.slug.rich_text[0].plain_text}`,
                     date: `${format(
                         postDate,
                         'MMMM do, yyyy',

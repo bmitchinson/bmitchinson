@@ -5,6 +5,7 @@
     "main": "main.js",
     "scripts": {
         "updateGithubReadme": "ts-node src/update_github_readme.ts",
+        "revalidateMitchinsonDev": "ts-node src/revalidate_mitchinson_dev.ts",
         "build": "tsc",
         "test": "jest --coverage",
         "view:cov": "serve coverage/lcov-report",
@@ -22,6 +23,7 @@
         "@types/source-map-support": "^0.5.1",
         "@typescript-eslint/eslint-plugin": "^5.27.0",
         "@typescript-eslint/parser": "^5.27.0",
+        "axios": "^1.4.0",
         "date-fns": "^2.30.0",
         "dotenv": "^16.0.1",
         "env-var": "^7.1.1",
