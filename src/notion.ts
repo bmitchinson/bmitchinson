@@ -1,5 +1,5 @@
 import { Client } from '@notionhq/client';
-import { parse, format, differenceInDays } from 'date-fns';
+import { parse, format, differenceInDays, parseISO } from 'date-fns';
 import { NotionToMarkdown } from 'notion-to-md';
 import {
     NOTION_API_KEY,
@@ -36,7 +36,7 @@ export class Notion {
 
     async getRecentPosts(): Promise<post[]> {
         const posts = await this.notionClient.databases.query(
-            publishedPostsNotionQuery,
+            publishedPostsByDateNotionQuery,
         );
         return posts.results
             .map((p: any) => {
@@ -56,9 +56,18 @@ export class Notion {
             })
             .slice(0, 5);
     }
+
+    async getMostRecentEdit(): Promise<Date> {
+        const posts = (await this.notionClient.databases.query(
+            publishedPostsAndPagesByEditedNotionQuery,
+        )) as any;
+        const notionEditTime =
+            posts.results[0].properties.edited.last_edited_time;
+        return parseISO(notionEditTime);
+    }
 }
 
-const publishedPostsNotionQuery: QueryDatabaseParameters = {
+const publishedPostsByDateNotionQuery: QueryDatabaseParameters = {
     database_id: POSTS_DB,
     filter: {
         and: [
@@ -79,6 +88,26 @@ const publishedPostsNotionQuery: QueryDatabaseParameters = {
     sorts: [
         {
             property: 'date',
+            direction: 'descending',
+        },
+    ],
+};
+
+const publishedPostsAndPagesByEditedNotionQuery: QueryDatabaseParameters = {
+    database_id: POSTS_DB,
+    filter: {
+        and: [
+            {
+                property: 'status',
+                select: {
+                    equals: 'Published',
+                },
+            },
+        ],
+    },
+    sorts: [
+        {
+            property: 'edited',
             direction: 'descending',
         },
     ],
