@@ -6,11 +6,11 @@
 
 ### 📝 Recent Posts
 
-- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (8 days ago)
-- [Concerts 2022 - 2023](https://blog.mitchinson.dev/concerts-2023) - May 7th, 2023 (71 days ago)
-- [Accenture August + September 2021](https://blog.mitchinson.dev/pillar/aug-sep-21) - October 17th, 2021 (638 days ago)
-- [Mocking Classes with Jest and Typescript](https://blog.mitchinson.dev/jest-typescript-mocks) - October 1st, 2021 (654 days ago)
-- [Accenture June + July 2021](https://blog.mitchinson.dev/pillar/june-july-21) - August 1st, 2021 (715 days ago)
+- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (9 days ago)
+- [Concerts 2022 - 2023](https://blog.mitchinson.dev/concerts-2023) - May 7th, 2023 (72 days ago)
+- [Accenture August + September 2021](https://blog.mitchinson.dev/pillar/aug-sep-21) - October 17th, 2021 (639 days ago)
+- [Mocking Classes with Jest and Typescript](https://blog.mitchinson.dev/jest-typescript-mocks) - October 1st, 2021 (655 days ago)
+- [Accenture June + July 2021](https://blog.mitchinson.dev/pillar/june-july-21) - August 1st, 2021 (716 days ago)
 
 🌐 https://mitchinson.dev
 
