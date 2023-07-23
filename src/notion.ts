@@ -45,13 +45,25 @@ export class Notion {
                     'yyyy-MM-dd',
                     new Date(),
                 );
+                const diffInDays = differenceInDays(new Date(), postDate);
+                let daysAgoDisc = '';
+                switch (diffInDays) {
+                    case 0:
+                        daysAgoDisc = 'Posted today';
+                        break;
+                    case 1:
+                        daysAgoDisc = 'Posted yesterday';
+                        break;
+                    default:
+                        daysAgoDisc = `Posted ${diffInDays} days ago`;
+                }
                 return {
                     title: p.properties.title.title[0].plain_text,
                     slug: `${BLOG_DOMAIN}/${p.properties.slug.rich_text[0].plain_text}`,
                     date: `${format(
                         postDate,
                         'MMMM do, yyyy',
-                    )} (${differenceInDays(new Date(), postDate)} days ago)`,
+                    )} (${daysAgoDisc})`,
                 };
             })
             .slice(0, 5);
