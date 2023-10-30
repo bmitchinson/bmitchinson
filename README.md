@@ -1,6 +1,4 @@
 ### 📌 Current Projects
-- 📪 APIs for a federal client with Accenture
-- 🤑 Working on digital checkbook app
 
 ### 📝 Recent Posts
 
