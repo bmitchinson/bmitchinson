@@ -1,14 +1,14 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal client with Accenture
-- 🤑 Working on digital checkbook app
+- 🛒 Working on a shopify store for a friend (sveltekit / vercel)
 
 ### 📝 Recent Posts
 
-- [Juno: On demand microservice deployment](https://blog.mitchinson.dev/juno) - July 23rd, 2023 (Posted 122 days ago)
-- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (Posted 136 days ago)
-- [Concerts 2022 - 2023](https://blog.mitchinson.dev/concerts-2023) - May 7th, 2023 (Posted 199 days ago)
-- [Accenture August + September 2021](https://blog.mitchinson.dev/pillar/aug-sep-21) - October 17th, 2021 (Posted 766 days ago)
-- [Mocking Classes with Jest and Typescript](https://blog.mitchinson.dev/jest-typescript-mocks) - October 1st, 2021 (Posted 782 days ago)
+- [Reducing Azure Redis 100% CPU](https://blog.mitchinson.dev/redis-cpu) - November 21st, 2023 (Posted 2 days ago)
+- [Juno: On demand microservice deployment](https://blog.mitchinson.dev/juno) - July 23rd, 2023 (Posted 123 days ago)
+- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (Posted 137 days ago)
+- [Concerts 2022 - 2023](https://blog.mitchinson.dev/concerts-2023) - May 7th, 2023 (Posted 200 days ago)
+- [Accenture August + September 2021](https://blog.mitchinson.dev/pillar/aug-sep-21) - October 17th, 2021 (Posted 767 days ago)
 
 🌐 https://mitchinson.dev
 
