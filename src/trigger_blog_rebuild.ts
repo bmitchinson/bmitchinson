@@ -1,11 +1,19 @@
 import { REBUILD_BLOG_HOOK_URL } from './configuration';
 import axios from 'axios';
 import { Notion } from './notion';
-import { subHours } from 'date-fns';
+import { parseISO } from 'date-fns';
+import state from '../state.json';
+import * as fs from 'fs';
 
-const occurredWithinLastHour = (date: Date): boolean => {
-    const hourAgo = subHours(new Date(), 1);
-    return date > hourAgo;
+const occurredSinceLastCheck = (date: Date): boolean => {
+    console.log('🕒 Last check:', state.lastSuccessfulCheck);
+    return date > parseISO(state.lastSuccessfulCheck);
+};
+
+const updateLastSuccessfulCheckState = () => {
+    const now = new Date();
+    state.lastSuccessfulCheck = now.toISOString();
+    fs.writeFileSync('state.json', JSON.stringify(state));
 };
 
 const rebuildBlog = async () => {
@@ -26,10 +34,11 @@ const notion = new Notion();
 
 notion.getMostRecentEdit().then((recentEdit) => {
     console.log('🕒 Last edit:', recentEdit);
-    if (occurredWithinLastHour(recentEdit)) {
+    if (occurredSinceLastCheck(recentEdit)) {
         console.log('✅ Recent edits, rebuilding blog.');
         rebuildBlog();
     } else {
         console.log('✅ No recent edits, skipping rebuild.');
     }
+    updateLastSuccessfulCheckState();
 });

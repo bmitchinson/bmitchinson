@@ -73,9 +73,9 @@ export class Notion {
         const posts = (await this.notionClient.databases.query(
             publishedPostsAndPagesByEditedNotionQuery,
         )) as any;
-        const notionEditTime =
+        const mostRecentEdit =
             posts.results[0].properties.edited.last_edited_time;
-        return parseISO(notionEditTime);
+        return parseISO(mostRecentEdit);
     }
 }
 
