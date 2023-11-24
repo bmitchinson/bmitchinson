@@ -1,6 +1,6 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal client with Accenture
-- 🛒 Working on a shopify store for a friend (sveltekit / vercel)
+- 🛒 Working on a shopify store for a friend (SvelteKit / Vercel)
 
 ### 📝 Recent Posts
 
