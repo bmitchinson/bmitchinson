@@ -1,6 +1,7 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal client with Accenture
 - 🛒 Working on a shopify store for a friend (SvelteKit / Vercel)
+- 📸 3D photo viewing - [portals](/ea06f6d5a7aa466d8f44b6073c78f4d5)
 
 ### 📝 Recent Posts
 
