@@ -2,7 +2,6 @@
 - 📪 APIs for a federal client with Accenture
 - 📸 Portals - WebXR 3D photo viewing - WIP ([demo](https://portals.mitchinson.dev/)) ([src](https://github.com/bmitchinson/vr-jpg-viewer-webxr))
 - 🎶 Learning to use LoFi 12 for music doodling
-- 
 
 ### 📝 Recent Posts
 
