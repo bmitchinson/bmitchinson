@@ -1,15 +1,16 @@
 ### 📌 Current Projects
 - 📪 APIs for a federal client with Accenture
-- 🛒 Working on a Shopify store for a friend (SvelteKit / Vercel)
-- 📸 Portals: WebXR 3D photo viewing - WIP ([demo](https://portals.mitchinson.dev/)) ([src](https://github.com/bmitchinson/vr-jpg-viewer-webxr))
+- 📸 Portals - WebXR 3D photo viewing - WIP ([demo](https://portals.mitchinson.dev/)) ([src](https://github.com/bmitchinson/vr-jpg-viewer-webxr))
+- 🎶 Learning to use LoFi 12 for music doodling
+- 
 
 ### 📝 Recent Posts
 
-- [Reducing Azure Redis 100% CPU](https://blog.mitchinson.dev/redis-cpu) - November 21st, 2023 (Posted 69 days ago)
-- [Juno: On demand microservice deployment](https://blog.mitchinson.dev/juno) - July 23rd, 2023 (Posted 190 days ago)
-- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (Posted 204 days ago)
-- [Concerts 2022 - 2023](https://blog.mitchinson.dev/concerts-2023) - May 7th, 2023 (Posted 267 days ago)
-- [Accenture August + September 2021](https://blog.mitchinson.dev/pillar/aug-sep-21) - October 17th, 2021 (Posted 834 days ago)
+- [Reducing Azure Redis 100% CPU](https://blog.mitchinson.dev/redis-cpu) - November 21st, 2023 (Posted 70 days ago)
+- [Juno: On demand microservice deployment](https://blog.mitchinson.dev/juno) - July 23rd, 2023 (Posted 191 days ago)
+- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (Posted 205 days ago)
+- [Concerts 2022 - 2023](https://blog.mitchinson.dev/concerts-2023) - May 7th, 2023 (Posted 268 days ago)
+- [Accenture August + September 2021](https://blog.mitchinson.dev/pillar/aug-sep-21) - October 17th, 2021 (Posted 835 days ago)
 
 🌐 https://mitchinson.dev
 
