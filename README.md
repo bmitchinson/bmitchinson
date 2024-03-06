@@ -1,7 +1,7 @@
 ### 📌 Current Projects
-- 📪 APIs for a federal client with Accenture
+- 💸 Budget Tracker - Digital checkbook - WIP ([src](https://github.com/bmitchinson/budget-entry))
 - 📸 Portals - WebXR 3D photo viewing - WIP ([demo](https://portals.mitchinson.dev/)) ([src](https://github.com/bmitchinson/vr-jpg-viewer-webxr))
-- 🎶 Learning to use LoFi 12 for music doodling
+- 🎶 Learning to use Traktor to make mixes with a X1 MK3
 
 ### 📝 Recent Posts
 
