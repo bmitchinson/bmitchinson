@@ -15,3 +15,7 @@ export const REBUILD_BLOG_HOOK_URL = env
     .get('REBUILD_BLOG_HOOK_URL')
     .required()
     .asString();
+
+export const REBUILD_OTHER_BLOG_HOOK_URL = env
+    .get('REBUILD_BLOG_HOOK_URL')
+    .asString();

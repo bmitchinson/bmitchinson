@@ -1,4 +1,7 @@
-import { REBUILD_BLOG_HOOK_URL } from './configuration';
+import {
+    REBUILD_BLOG_HOOK_URL,
+    REBUILD_OTHER_BLOG_HOOK_URL,
+} from './configuration';
 import axios from 'axios';
 import { Notion } from './notion';
 import { parseISO } from 'date-fns';
@@ -28,6 +31,21 @@ const rebuildBlog = async () => {
             console.log('❌ Error Rebuilding Blog:', err?.response?.data);
             process.exit(1);
         });
+
+    if (REBUILD_OTHER_BLOG_HOOK_URL) {
+        axios
+            .get(REBUILD_OTHER_BLOG_HOOK_URL)
+            .then((res) => {
+                console.log('✅ Other Blog Rebuild Request:', res.data);
+            })
+            .catch((err) => {
+                console.log(
+                    '❌ Error Rebuilding Other Blog:',
+                    err?.response?.data,
+                );
+                process.exit(1);
+            });
+    }
 };
 
 const notion = new Notion();
