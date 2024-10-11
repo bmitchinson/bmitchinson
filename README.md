@@ -1,15 +1,15 @@
 ### 📌 Current Projects
-- 💸 Budget Tracker - Digital checkbook - WIP ([src](https://github.com/bmitchinson/budget-entry))
+- 📝 Quiz App - Math platform for an elementary school - WIP ([demo](https://quiz-staging.mitchinson.dev/)) ([src](https://github.com/bmitchinson/budget-entry))
 - 📸 Portals - WebXR 3D photo viewing - WIP ([demo](https://portals.mitchinson.dev/)) ([src](https://github.com/bmitchinson/vr-jpg-viewer-webxr))
 - 🎶 Building a video game - WIP ([dev blog](https://blog.mitchinson.dev/playdate-dev-one))
 
 ### 📝 Recent Posts
 
-- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 101 days ago)
-- [Mocking time in Playwright](https://blog.mitchinson.dev/playwright-mock-time) - March 26th, 2024 (Posted 179 days ago)
-- [Reducing Azure Redis 100% CPU](https://blog.mitchinson.dev/redis-cpu) - November 21st, 2023 (Posted 305 days ago)
-- [Juno: On demand microservice deployment](https://blog.mitchinson.dev/juno) - July 23rd, 2023 (Posted 426 days ago)
-- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (Posted 440 days ago)
+- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 121 days ago)
+- [Mocking time in Playwright](https://blog.mitchinson.dev/playwright-mock-time) - March 26th, 2024 (Posted 199 days ago)
+- [Reducing Azure Redis 100% CPU](https://blog.mitchinson.dev/redis-cpu) - November 21st, 2023 (Posted 325 days ago)
+- [Juno: On demand microservice deployment](https://blog.mitchinson.dev/juno) - July 23rd, 2023 (Posted 446 days ago)
+- [NextJS Notion Blog](https://blog.mitchinson.dev/blog-2023) - July 9th, 2023 (Posted 460 days ago)
 
 🌐 https://mitchinson.dev
 
