@@ -9,13 +9,14 @@ export const REVALIDATE_PASS = env.get('REVALIDATE_PASS').required().asString();
 
 // slugs for recent posts will be appended to:
 export const BLOG_DOMAIN = 'https://blog.mitchinson.dev';
-export const HOME_DOMAIN = 'https://mitchinson.dev';
+export const HOME_DOMAIN = 'https://home.mitchinson.dev';
 
 export const REBUILD_BLOG_HOOK_URL = env
     .get('REBUILD_BLOG_HOOK_URL')
     .required()
     .asString();
 
+// todo: the hell is this, same env var? Think I can remove.
 export const REBUILD_OTHER_BLOG_HOOK_URL = env
     .get('REBUILD_BLOG_HOOK_URL')
     .asString();
