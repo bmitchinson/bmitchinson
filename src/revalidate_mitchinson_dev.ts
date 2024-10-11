@@ -6,7 +6,7 @@ const revalidateMitchinsonDev = async () => {
         process.env.REVALIDATE_PASS,
     )}`;
 
-    console.log('⌛️ Reaching out to', HOME_DOMAIN);
+    console.log('⌛️ Reaching out to', requestURL);
 
     axios
         .get(requestURL)
@@ -14,7 +14,7 @@ const revalidateMitchinsonDev = async () => {
             console.log('✅ Revalidated:', res.data);
         })
         .catch((err) => {
-            console.log('❌ Error revalidating:', err?.response?.data);
+            console.log('❌ Error revalidating:', err);
             process.exit(1);
         });
 };
