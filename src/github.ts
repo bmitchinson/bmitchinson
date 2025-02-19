@@ -6,9 +6,7 @@ const projectsPrefixText = '### 📌 Current Projects';
 const recentPostPrefixText = '### 📝 Recent Posts';
 const finalSuffixText = `🌐 https://mitchinson.dev
 
-💌 mitchinson.dev@gmail.com
-
-🐦 [@115bwm](https://twitter.com/115bwm)`;
+💌 mitchinson.dev@gmail.com`;
 
 const mapPostsToMarkdown = (posts: post[]) => {
     return posts.reduce((acc, post) => {
