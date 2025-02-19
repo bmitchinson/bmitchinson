@@ -1,7 +1,7 @@
 ### 📌 Current Projects
-- 📝 Quiz App - Math platform for an elementary school - WIP ([demo](https://quiz-staging.mitchinson.dev/)) ([src](https://github.com/bmitchinson/budget-entry))
-- 📸 Portals - WebXR 3D photo viewing - WIP ([demo](https://portals.mitchinson.dev/)) ([src](https://github.com/bmitchinson/vr-jpg-viewer-webxr))
-- 🎶 Building a video game - WIP ([dev blog](https://blog.mitchinson.dev/playdate-dev-one))
+- 📝 A math quiz web app for elementary school teachers (Svelte) ([demo](https://quiz-staging.mitchinson.dev/)) ([src](https://github.com/bmitchinson/budget-entry))
+- 🌐 A home server to host websites for family and friends (Unraid)
+- 🎶 Making a small rhythm party game in Lua ([dev blog](https://blog.mitchinson.dev/playdate-dev-one))
 
 ### 📝 Recent Posts
 
