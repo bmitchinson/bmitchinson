@@ -14,5 +14,3 @@
 🌐 https://mitchinson.dev
 
 💌 mitchinson.dev@gmail.com
-
-🐦 [@115bwm](https://twitter.com/115bwm)
