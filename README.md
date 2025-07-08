@@ -6,11 +6,11 @@
 
 ### 📝 Recent Posts
 
-- [Message Board - “Letters”](https://blog.mitchinson.dev/letters) - June 25th, 2025 (Posted 12 days ago)
-- [Vinyl Digitilization](https://blog.mitchinson.dev/vinyl) - June 8th, 2025 (Posted 29 days ago)
-- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 390 days ago)
-- [Mocking time in Playwright](https://blog.mitchinson.dev/playwright-mock-time) - March 26th, 2024 (Posted 468 days ago)
-- [Reducing Azure Redis 100% CPU](https://blog.mitchinson.dev/redis-cpu) - November 21st, 2023 (Posted 594 days ago)
+- [Message Board - “Letters”](https://blog.mitchinson.dev/letters) - June 25th, 2025 (Posted 13 days ago)
+- [Vinyl Digitilization](https://blog.mitchinson.dev/vinyl) - June 8th, 2025 (Posted 30 days ago)
+- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 391 days ago)
+- [Mocking time in Playwright](https://blog.mitchinson.dev/playwright-mock-time) - March 26th, 2024 (Posted 469 days ago)
+- [Reducing Azure Redis 100% CPU](https://blog.mitchinson.dev/redis-cpu) - November 21st, 2023 (Posted 595 days ago)
 
 🌐 https://mitchinson.dev
 
