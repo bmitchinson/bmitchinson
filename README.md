@@ -1,7 +1,7 @@
 ### 📌 Current Projects
 - 📝 A math quiz web app for elementary school teachers (Svelte) ([demo](https://quiz-staging.mitchinson.dev/)) ([src](https://github.com/bmitchinson/budget-entry))
-- 💸 Building a telegram bot to prompt budget categorization when spend occurs ([src](https://github.com/bmitchinson/sms-accountant))
-- 🏠 Moving to Corvallis, Oregon this summer
+- 🎵 Building a music transcription practice tool ([demo](https://practice.mitchinson.dev/)) ([src](https://github.com/bmitchinson/practice))
+- 🐳 Deploying containers onto unraid for log analytics, private journaling, and photo libraries.
 - 💌 Made a message board to reach my girlfriend while she has no cell service ([site](https://letters.mitchinson.dev/)) ([src](https://github.com/bmitchinson/letters))
 
 ### 📝 Recent Posts
