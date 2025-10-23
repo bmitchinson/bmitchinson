@@ -6,11 +6,11 @@
 
 ### 📝 Recent Posts
 
-- [SvelteKit Template](https://blog.mitchinson.dev/sveltekit-template) - July 11th, 2025 (Posted 103 days ago)
-- [Message Board - “Letters”](https://blog.mitchinson.dev/letters) - June 25th, 2025 (Posted 119 days ago)
-- [Vinyl Digitilization](https://blog.mitchinson.dev/vinyl) - June 8th, 2025 (Posted 136 days ago)
-- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 497 days ago)
-- [Mocking time in Playwright](https://blog.mitchinson.dev/playwright-mock-time) - March 26th, 2024 (Posted 575 days ago)
+- [SvelteKit Template](https://blog.mitchinson.dev/sveltekit-template) - July 11th, 2025 (Posted 104 days ago)
+- [Message Board - “Letters”](https://blog.mitchinson.dev/letters) - June 25th, 2025 (Posted 120 days ago)
+- [Vinyl Digitilization](https://blog.mitchinson.dev/vinyl) - June 8th, 2025 (Posted 137 days ago)
+- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 498 days ago)
+- [Mocking time in Playwright](https://blog.mitchinson.dev/playwright-mock-time) - March 26th, 2024 (Posted 576 days ago)
 
 🌐 https://mitchinson.dev
 
