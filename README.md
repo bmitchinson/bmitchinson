@@ -1,6 +1,6 @@
 ### 📌 Current Projects
-- 📝 A math quiz web app for elementary school teachers (Svelte) ([demo](https://quiz-staging.mitchinson.dev/)) ([src](https://github.com/bmitchinson/budget-entry))
-- 🎵 Building a music transcription practice tool ([demo](https://practice.mitchinson.dev/)) ([src](https://github.com/bmitchinson/practice))
+- 🏃🏼 Training for a 10k this May
+- 🎵 Building a music transcription practice tool and learning bass ([site](https://practice.mitchinson.dev/)) ([src](https://github.com/bmitchinson/practice))
 - 🐳 Deploying containers onto unraid for log analytics, private journaling, and photo libraries.
 - 💌 Made a message board to reach my girlfriend while she has no cell service ([site](https://letters.mitchinson.dev/)) ([src](https://github.com/bmitchinson/letters))
 
