@@ -6,11 +6,11 @@
 
 ### 📝 Recent Posts
 
-- [Homelab: Health Tracker](https://blog.mitchinson.dev/homelab-summer-2026) - May 31st, 2026 (Posted 60 days ago)
-- [SvelteKit Template](https://blog.mitchinson.dev/sveltekit-template) - July 11th, 2025 (Posted 384 days ago)
-- [Message Board - “Letters”](https://blog.mitchinson.dev/letters) - June 25th, 2025 (Posted 400 days ago)
-- [Vinyl Digitilization](https://blog.mitchinson.dev/vinyl) - June 8th, 2025 (Posted 417 days ago)
-- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 778 days ago)
+- [Homelab: Health Tracker](https://blog.mitchinson.dev/homelab-summer-2026) - May 31st, 2026 (Posted 61 days ago)
+- [SvelteKit Template](https://blog.mitchinson.dev/sveltekit-template) - July 11th, 2025 (Posted 385 days ago)
+- [Message Board - “Letters”](https://blog.mitchinson.dev/letters) - June 25th, 2025 (Posted 401 days ago)
+- [Vinyl Digitilization](https://blog.mitchinson.dev/vinyl) - June 8th, 2025 (Posted 418 days ago)
+- [(WIP) Playdate: Battle of the Bands](https://blog.mitchinson.dev/playdate-dev-one) - June 12th, 2024 (Posted 779 days ago)
 
 🌐 https://mitchinson.dev
 
